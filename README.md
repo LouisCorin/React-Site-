@@ -5,5 +5,4 @@ I have learned how to apply the composable nature of React by creating custom co
 Everything came together creating my first static page with React and that  was a great introduction.
 
 
-![site preview]
-(https://user-images.githubusercontent.com/105444897/188878616-a1380a73-675a-4120-a4d7-0bf947064502.png)
+![site preview](https://user-images.githubusercontent.com/105444897/188878616-a1380a73-675a-4120-a4d7-0bf947064502.png)
