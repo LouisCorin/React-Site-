@@ -3,3 +3,7 @@ I learned why it is composable and declarative, what the words mean and why it i
 I have learned what JSX syntax is and how it allows us to write code that is more familiar to us since it looks like basic HTML.
 I have learned how to apply the composable nature of React by creating custom components and using CSS classes to add style to the page.
 Everything came together creating my first static page with React and that  was a great introduction.
+
+
+![site preview]
+(https://user-images.githubusercontent.com/105444897/188878616-a1380a73-675a-4120-a4d7-0bf947064502.png)
